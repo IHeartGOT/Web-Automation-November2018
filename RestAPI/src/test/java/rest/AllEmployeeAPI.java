@@ -1,5 +1,6 @@
 package rest;
 
+import com.mysql.cj.x.protobuf.MysqlxDatatypes;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
